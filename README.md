@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Souz4Luiz)](https://t.me/Souz4Luiz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henryque.souz4@gmail.com)](mailto:henryque.souz4@gmail.com)
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Olá! <img src="https://github.com/SouzaLuiz/SouzaLuiz/blob/master/assets/hi.gif" width="22px">
 
 Meu nome é Luiz Henrique, estudante de Ciências da computação e desenvolvedor de softwares.
 
