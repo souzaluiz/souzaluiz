@@ -5,5 +5,5 @@
 
 Sou estudante de Ciências da computação e desenvolvedor de softwares.
 
-- :office_worker: Full Stack Developer | Javascript | Typescript
+- :office_worker: Full Stack Developer | JS | TS
 - :blue_heart: Techs: Node.js, React.js, React Native.
